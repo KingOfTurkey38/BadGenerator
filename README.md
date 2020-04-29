@@ -1,0 +1,2 @@
+# BadGenerator
+Something bad
