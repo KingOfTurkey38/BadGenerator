@@ -1,0 +1,6 @@
+---
+name: Generator
+version: 0.0.1
+main: KingOfTurkey38\Generator\Main
+api: 3.12.0
+...

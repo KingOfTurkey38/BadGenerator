@@ -1,0 +1,8 @@
+---
+generator-settings:
+  speed: #you can configure here how often the generator will spawn an ore
+    level1: 100 # speed in ticks 20 ticks = 1 second
+    level2: 80
+    level3: 60
+    level4: 40
+...
